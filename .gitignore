@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/UserManagementWithIdentity/config
+/.vs/UserManagementWithIdentity/v16
+/UserManagementWithIdentity/bin
+/UserManagementWithIdentity/obj
+/packages
